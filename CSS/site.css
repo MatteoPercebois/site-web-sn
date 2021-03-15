@@ -1,8 +1,9 @@
 #entete
 	{
-	background-color : #000000;
+	background-color : #d8d8d8;
 	height : 145px;
-	border : thin black solid;
+	text-align: left;
+	border : #2f2f2f;
 	min-height : 195px;
 	min-width : 700px
 	}	
@@ -18,12 +19,12 @@
 	}
 #Pied_de_Page
 	{
-	background-color : #000000;
+	background-color : #2f2f2f;
 	min-width : 730px;
 	min-height : 50px;
 	margin-left : 20px;
 	margin-right : 20px;
-	border : thin black solid; 
+	border : #2f2f2f; 
 	color : white;
 	text-align:center;
 	}
@@ -37,7 +38,7 @@
 body 
 	{
 	margin : auto;
-	background-color : #192f49;
+	background-color : #2f2f2f;
 	}
 ul
 	{
