@@ -11,11 +11,11 @@
 	{
 	min-height : 650px;
 	min-width : 700px;
-	margin-left : 20px;
-	margin-right : 20px;
+	margin-left : 0px;
+	margin-right : 0px;
 	margin-top : 0px;
 	background-color : #d7d5d5;
-	padding: 15px;
+	padding: 0px;
 	}
 #Pied_de_Page
 	{
@@ -54,15 +54,24 @@ table
 	{
 	border: thin solid black;
 	border-collapse: collapse;
+	text-align : center;
+  padding: 10px;
+
 	}
+
 th,td
 	{
 	text-align: center;
 	border: thin solid black;
+
+  padding: 25px;
+
 	}
 .gauche
 	{
-	float : left;
+	
+	
+
 	}
 .droite
 	{
@@ -72,13 +81,13 @@ th,td
 .textepiedpage
 	{
 	font-size : small;
-	font-family : "Comic sans ms", Arial;
+	font-family : "Mi", Arial;
 	color : white;
 	}
 .texteCorps
 	{
 	font-size : medium;
-	font-family : "Comic sans ms", Arial;
+	font-family: 'Roboto Mono';
 	}
 .puce
 	{
@@ -94,6 +103,10 @@ th,td
 	{
 	margin-left:160px;
 	}
+	.table3
+	{
+	margin-left:0px;
+	}
 .grey
 	{
 	background-color: grey;
@@ -108,7 +121,8 @@ th,td
 	}
 .images
 	{
-	Text-align: center;
+		 
+	text-align : center;
 	}
 .ecart
 	{
@@ -121,7 +135,8 @@ a:visited
 	}
 a:link
 	{
-	color: #1448b4;	
+	color: #ffffff
+	;	
 	}	
 a:hover
 	{
